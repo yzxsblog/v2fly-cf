@@ -49,7 +49,7 @@ jobs:
         cat > manifest-ibm.yml << EOF
         ---
         applications:
-        - name: v2ws
+        - name: yyy55555
           memory: 256M
           disk_quota: 256M
           random-route: true
