@@ -8,7 +8,7 @@ on:
       - "manifest-pws.yml"
       - ".github/workflows/deploy-to-pws.yml"
   schedule:
-    - cron: "0 21 * * 3"
+    - cron: "55 23 * * 3"
 
 jobs:
   deploy:
